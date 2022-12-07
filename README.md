@@ -1,1 +1,1 @@
-# American Football Quote Generator
+# Quote Generator
